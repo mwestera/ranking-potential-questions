@@ -7,9 +7,9 @@ Dependencies and package-versions are
 noted in the respective Python-files.
 *************************************
 
-General note: 
+General notes: 
 In order to use the code which is dependent on a word vector model, get a model of word vectors (e.g. at https://code.google.com/archive/p/word2vec/) and place it in the directory ‚word2vec‘. 
-
+The interview excerpt used in data/snowden_qud_annotations was taken from https://www.ndr.de/nachrichten/netzwelt/Snowden-Interview-Transcript,snowden277.html. 
 
 extract_data.py:
 ————————————————————————————
