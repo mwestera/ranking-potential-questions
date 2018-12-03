@@ -1,0 +1,33 @@
+Q0 What is the way things are?
+>Q1 What about Snowden and the events of the last couple of days?
+>A0 Mr. Snowden, did you sleep well the last couple of nights?
+>>Q2 Did Snowden sleep well?
+>>A1 Because, I was reading that you asked for a kind of police protection.
+>>>Q3 Why would Snowden want police protection?
+>>>Q2 Are there any threats?
+>>>A3 There are no significant threats
+>>A4 but I sleep very well.
+>>Q4 Why would Snowden have to be concerned?
+>>A5 There was an article that came out in an online outlet called BuzzFeed
+>>>Q5 What was the content of the article?
+>>>A6 Where they interviewed officials from the Pentagon,
+>>>A7 from the National Security Agency
+>>>>Q6 What did these officials say?
+>>>>>A8 and they gave them anonymity to be able to say what they wanted,
+>>>>>A9 and what they told the reporter was that they wanted to murder me.
+>>>>Q6 How would they kill Snowden?
+>>>>A10 These individuals, and these are acting government officials,
+>>>>A11 they said they would be happy, they would love to put a bullet in my head,
+>>>>A12 to poison me as I was returning from the grocery store,
+>>>>A13 and have me die in the shower.
+>>Q7 Why is Snowden still alive?
+>>A14 But, fortunately, you are still alive with us.
+>>>Q8 What about Snowden and his disclosured about the NSA?
+>>>A15 Right but I'm still alive,
+>>>A16 and I don't lose sleep
+>>>>Q9 Why doesn't Snowden lose sleep?
+>>>>A17 because I've done what I feel I needed to do.
+>>>>>Q10 What kind of thing was that?
+>>>>>A18 It was the right thing to do.
+>>>>A19 and I'm not going to be afraid.
+

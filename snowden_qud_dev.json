@@ -1,0 +1,775 @@
+{
+    "But, fortunately, you are still alive with us.": {
+        "labels": [
+            "Are you not?",
+            "Are you still alive?",
+            "Were the murder threats acted upon?"
+        ],
+        "potential_qs": [
+            "Are you not?",
+            "In what ways do the officials want to murder you?",
+            "Is Snowden worried?",
+            "Was it the right thing to do?",
+            "And how else would they want to murder Snowden?",
+            "And that didn\u2019t happen?",
+            "What was it?",
+            "What did they say, how would they want to murder me?",
+            "Why is that?",
+            "And why else not?",
+            "Why don't you lose sleep?",
+            "Don't you lose sleep?",
+            "And what else can be said about your wellbeing?",
+            "Were the murder threats acted upon?",
+            "Why did you feel that way?",
+            "Are you still alive?",
+            "In what other way would they like to murder me?",
+            "What did they say?",
+            "What about Snowden?",
+            "Why not?",
+            "Why don\u2019t you lose sleep?",
+            "What would be the result of being poisoned like that?",
+            "What would they love to do?",
+            "Mr. Snowden, did you sleep well the last couple of nights?"
+        ]
+    },
+    "There was an article that came out in an online outlet called BuzzFeed": {
+        "labels": [
+            "What was the content of the article?",
+            "What\u2019s in this article?",
+            "What about the article?",
+            "Who voiced the threats?",
+            "What was in the article?",
+            "What was the article about?",
+            "What kind of article?",
+            "What was in that article?"
+        ],
+        "potential_qs": [
+            "What kind of threat?",
+            "What did they tell in anonymity?",
+            "What did they threaten him with?",
+            "What's the matter?",
+            "What did they tell the reporter?",
+            "Are there any threats?",
+            "In what ways do the officials want to murder you?",
+            "What was the article about?",
+            "What kind of article?",
+            "And that didn\u2019t happen?",
+            "Are there threats and do they impact your sleeping?",
+            "What kind of threats?",
+            "How did BuzzFeed get the officials to talk to them?",
+            "What is the background to this question?",
+            "Why is Snowden still alive?",
+            "Why would Snowden have to be concerned?",
+            "What\u2019s in this article?",
+            "Who voiced the threats?",
+            "Why would Snowden want police protection?",
+            "What was with the officials?",
+            "How do you sleep?",
+            "Where did he get the threats?",
+            "Was Mr. Snowden really murdered?",
+            "Who said that?",
+            "Why did those officials threaten him publicly?",
+            "How did they interview them?",
+            "From where?",
+            "What about the article?",
+            "Where did the threats come from?",
+            "What did the officials say?",
+            "What did they say?",
+            "What did these officials say?",
+            "Why would you not be sleeping well?",
+            "What else did they do?",
+            "Why might Mr. Snowden not have been sleeping well?",
+            "And how about the sleep in that circumstances?",
+            "What kind of officials?",
+            "What was the content of the article?",
+            "Where did you hear about these threats?",
+            "So what did they say?",
+            "Who are these officials exactly?",
+            "What did the officials tell them?",
+            "What was in the article?",
+            "Are there threats?",
+            "What is special about this interview?",
+            "What was in that article?",
+            "Are there significant threats?",
+            "How would they kill Snowden?"
+        ]
+    },
+    "and I don\u2019t lose sleep": {
+        "labels": [
+            "Why don\u2019t you lose sleep?"
+        ],
+        "potential_qs": [
+            "But isn\u2019t there anything you\u2019re afraid of?",
+            "Why don\u2019t you lose sleep?",
+            "Was it the right thing to do?",
+            "But are you afraid?",
+            "Are you still alive?",
+            "And that didn\u2019t happen?",
+            "Mr. Snowden, did you sleep well the last couple of nights?"
+        ]
+    },
+    "they said they would be happy, they would love to put a bullet in my head,": {
+        "labels": [
+            "How exactly would they like to kill you?",
+            "And how else would they want to murder Snowden?",
+            "In what other way would they like to murder me?"
+        ],
+        "potential_qs": [
+            "What happend instead?",
+            "What did they tell in anonymity?",
+            "What did they say, how would they want to murder me?",
+            "How would they want to murder Snowden?",
+            "Who said that?",
+            "What would happen afterwards?",
+            "Are you not?",
+            "Why is that significant?",
+            "What about the sleep?",
+            "So what did they say?",
+            "What would be the result of being poisoned like that?",
+            "And how else would they want to murder Snowden?",
+            "What did the officials tell them?",
+            "And what else can be said about your wellbeing?",
+            "In what other way would they like to murder me?",
+            "What is special about this interview?",
+            "Were the murder threats acted upon?",
+            "How exactly would they like to kill you?",
+            "Why is this something remarkable?"
+        ]
+    },
+    "That was one of your greatest concerns at the time,": {
+        "labels": [
+            "Is this quote still accurate?"
+        ],
+        "potential_qs": [
+            "When was this your greatest fear?",
+            "Where else?",
+            "But isn\u2019t there anything you\u2019re afraid of?",
+            "But are you afraid?",
+            "Where is this being discussed?",
+            "Is this quote still accurate?"
+        ]
+    },
+    "and what they told the reporter was that they wanted to murder me.": {
+        "labels": [
+            "Who are these individuals?",
+            "Who said that?",
+            "Why is that significant?",
+            "Who are these officials exactly?",
+            "Why is this something remarkable?",
+            "How would they kill Snowden?"
+        ],
+        "potential_qs": [
+            "How would they kill Snowden?",
+            "What did they tell in anonymity?",
+            "What did they tell the reporter?",
+            "Why doesn't Snowden lose sleep?",
+            "And how else would they want to murder Snowden?",
+            "What kind of article?",
+            "Are you ok in spite of all this?",
+            "Why is this something remarkable?",
+            "How did BuzzFeed get the officials to talk to them?",
+            "What did they say, how would they want to murder me?",
+            "Why is Snowden still alive?",
+            "Why would Snowden have to be concerned?",
+            "What was with the officials?",
+            "How would they want to murder Snowden?",
+            "Who said that?",
+            "How did they interview them?",
+            "From where?",
+            "What did the officials say?",
+            "In what other way would they like to murder me?",
+            "What about Snowden and his disclosured about the NSA?",
+            "What did they say?",
+            "How exactly would they like to kill you?",
+            "What did these officials say?",
+            "What about Snowden?",
+            "What else did they do?",
+            "What kind of officials?",
+            "What happend instead?",
+            "Why is that significant?",
+            "What would happen afterwards?",
+            "What was the content of the article?",
+            "So what did they say?",
+            "What would be the result of being poisoned like that?",
+            "Who are these officials exactly?",
+            "What did the officials say exactly?",
+            "What was in the article?",
+            "What\u2019s happened as a result of all this?",
+            "What did the officials tell them?",
+            "What is special about this interview?",
+            "What would they love to do?",
+            "Who are these individuals?"
+        ]
+    },
+    "It was the right thing to do.": {
+        "labels": [
+            "But are you afraid?"
+        ],
+        "potential_qs": [
+            "When was this your greatest fear?",
+            "But isn\u2019t there anything you\u2019re afraid of?",
+            "Why don\u2019t you lose sleep?",
+            "Was it the right thing to do?",
+            "But are you afraid?",
+            "Mr. Snowden, did you sleep well the last couple of nights?",
+            "Is this quote still accurate?"
+        ]
+    },
+    "There are significant threats": {
+        "labels": [
+            "And how about the sleep in that circumstances?",
+            "How do you sleep?"
+        ],
+        "potential_qs": [
+            "What is the background to this question?",
+            "What about threats?",
+            "What kind of officials?",
+            "And how about the sleep in that circumstances?",
+            "What's the matter?",
+            "Are there any threats?",
+            "Why do did you ask for police protection?",
+            "From where?",
+            "What about the article?",
+            "Are there threats?",
+            "What was in that article?",
+            "Are there significant threats?",
+            "How do you sleep?"
+        ]
+    },
+    "These individuals, and these are acting government officials,": {
+        "labels": [
+            "What did they say?",
+            "What did the officials say exactly?",
+            "How would they want to murder Snowden?",
+            "What did they say, how would they want to murder me?"
+        ],
+        "potential_qs": [
+            "What did they tell the reporter?",
+            "Are you not?",
+            "And how else would they want to murder Snowden?",
+            "Are you ok in spite of all this?",
+            "How did BuzzFeed get the officials to talk to them?",
+            "How do you feel about the actions that led to this?",
+            "What did they say, how would they want to murder me?",
+            "Were the murder threats acted upon?",
+            "What was with the officials?",
+            "How would they want to murder Snowden?",
+            "Who said that?",
+            "How did they interview them?",
+            "Are you still alive?",
+            "What did the officials say?",
+            "In what other way would they like to murder me?",
+            "What did they say?",
+            "What about Snowden?",
+            "What else did they do?",
+            "Why is that significant?",
+            "So what did they say?",
+            "What would be the result of being poisoned like that?",
+            "Who are these officials exactly?",
+            "What did the officials say exactly?",
+            "What did the officials tell them?",
+            "What\u2019s happened as a result of all this?",
+            "What would they love to do?",
+            "Who are these individuals?"
+        ]
+    },
+    "Right, but I\u2019m still alive,": {
+        "labels": [
+            "Is Snowden worried?",
+            "Don't you lose sleep?",
+            "What about the sleep?",
+            "Mr. Snowden, did you sleep well the last couple of nights?",
+            "And what else can be said about your wellbeing?"
+        ],
+        "potential_qs": [
+            "Are you not?",
+            "In what ways do the officials want to murder you?",
+            "Is Snowden worried?",
+            "Was it the right thing to do?",
+            "And how else would they want to murder Snowden?",
+            "Do those threats affect you in any way?",
+            "And that didn\u2019t happen?",
+            "What was it?",
+            "Why is that?",
+            "And why else not?",
+            "What now?",
+            "Why don't you lose sleep?",
+            "But are you afraid?",
+            "Don't you lose sleep?",
+            "And what else can be said about your wellbeing?",
+            "Were the murder threats acted upon?",
+            "Why did you feel that way?",
+            "What about the sleep?",
+            "Will Snowden be worried?",
+            "Are you still alive?",
+            "In what other way would they like to murder me?",
+            "How exactly would they like to kill you?",
+            "What about Snowden?",
+            "What happend instead?",
+            "Are you afraid?",
+            "Why not?",
+            "What would happen afterwards?",
+            "Why don\u2019t you lose sleep?",
+            "What would be the result of being poisoned like that?",
+            "What would they love to do?",
+            "Mr. Snowden, did you sleep well the last couple of nights?"
+        ]
+    },
+    "and they gave them anonymity to be able to say what they wanted,": {
+        "labels": [
+            "What did they tell in anonymity?",
+            "What did they threaten him with?",
+            "What did they tell the reporter?",
+            "So what did they say?",
+            "What did the officials tell them?",
+            "What did the officials say?"
+        ],
+        "potential_qs": [
+            "What kind of threat?",
+            "What did they tell in anonymity?",
+            "What did they threaten him with?",
+            "What did they tell the reporter?",
+            "And how else would they want to murder Snowden?",
+            "What was the article about?",
+            "What kind of article?",
+            "Why is this something remarkable?",
+            "How did BuzzFeed get the officials to talk to them?",
+            "What did they say, how would they want to murder me?",
+            "Who voiced the threats?",
+            "What was with the officials?",
+            "Where did he get the threats?",
+            "How would they want to murder Snowden?",
+            "Was Mr. Snowden really murdered?",
+            "Who said that?",
+            "Why did those officials threaten him publicly?",
+            "How did they interview them?",
+            "From where?",
+            "What about the article?",
+            "Where did the threats come from?",
+            "What did the officials say?",
+            "In what other way would they like to murder me?",
+            "What did they say?",
+            "How exactly would they like to kill you?",
+            "Why is Mr. Snowden not losing sleep?",
+            "What else did they do?",
+            "What kind of officials?",
+            "Why is that significant?",
+            "What would happen afterwards?",
+            "So what did they say?",
+            "Who are these officials exactly?",
+            "What did the officials say exactly?",
+            "What was in the article?",
+            "What\u2019s happened as a result of all this?",
+            "What did the officials tell them?",
+            "What was in that article?",
+            "What is special about this interview?",
+            "What would they love to do?",
+            "Mr. Snowden, did you sleep well the last couple of nights?",
+            "Who are these individuals?"
+        ]
+    },
+    "and they gave them anonymity to be able to say what they wanted, and what they told the reporter was that they wanted to murder me.": {
+        "labels": [
+            "In what ways do the officials want to murder you?"
+        ],
+        "potential_qs": [
+            "Where did you hear about these threats?",
+            "What\u2019s in this article?",
+            "In what ways do the officials want to murder you?",
+            "Are you still alive?",
+            "And that didn\u2019t happen?",
+            "What did they say?",
+            "Mr. Snowden, did you sleep well the last couple of nights?"
+        ]
+    },
+    "they said they would be happy,": {
+        "labels": [
+            "What would they love to do?"
+        ],
+        "potential_qs": [
+            "What did they tell the reporter?",
+            "Don't you lose sleep?",
+            "Are you still alive?",
+            "What did they say?",
+            "What would they love to do?",
+            "What about Snowden?",
+            "Who are these individuals?"
+        ]
+    },
+    "I\u2019m not going to be afraid.": {
+        "labels": [
+            "But isn\u2019t there anything you\u2019re afraid of?"
+        ],
+        "potential_qs": [
+            "When was this your greatest fear?",
+            "Why don\u2019t you lose sleep?",
+            "But isn\u2019t there anything you\u2019re afraid of?",
+            "Was it the right thing to do?",
+            "But are you afraid?",
+            "Where is this being discussed?",
+            "Is this quote still accurate?"
+        ]
+    },
+    "where they interviewed officials from the Pentagon,": {
+        "labels": [
+            "What kind of officials?",
+            "From where?"
+        ],
+        "potential_qs": [
+            "How do you sleep?",
+            "Why is this something remarkable?",
+            "How did BuzzFeed get the officials to talk to them?",
+            "What is the background to this question?",
+            "And how about the sleep in that circumstances?",
+            "What did they tell in anonymity?",
+            "What kind of officials?",
+            "Why is that significant?",
+            "What's the matter?",
+            "What did they tell the reporter?",
+            "Are there any threats?",
+            "From where?",
+            "What about the article?",
+            "What did the officials tell them?",
+            "What was the article about?",
+            "What was in that article?",
+            "What is special about this interview?",
+            "What kind of threats?",
+            "What else did they do?",
+            "Who are these individuals?"
+        ]
+    },
+    "where they interviewed officials from the Pentagon, from the National Security Agency": {
+        "labels": [
+            "What was with the officials?"
+        ],
+        "potential_qs": [
+            "Where did the threats come from?",
+            "Who are these officials exactly?",
+            "What did the officials say exactly?",
+            "What was in the article?",
+            "What did the officials say?",
+            "Are there threats and do they impact your sleeping?",
+            "What was with the officials?"
+        ]
+    },
+    "from the National Security Agency": {
+        "labels": [
+            "Why did those officials threaten him publicly?",
+            "How did they interview them?",
+            "What is special about this interview?",
+            "What did they say?",
+            "What did these officials say?",
+            "What else did they do?",
+            "How did BuzzFeed get the officials to talk to them?"
+        ],
+        "potential_qs": [
+            "What kind of threat?",
+            "How would they kill Snowden?",
+            "What did they tell in anonymity?",
+            "What did they threaten him with?",
+            "What's the matter?",
+            "What did they tell the reporter?",
+            "Are there any threats?",
+            "In what ways do the officials want to murder you?",
+            "What was the article about?",
+            "What kind of article?",
+            "And that didn\u2019t happen?",
+            "What kind of threats?",
+            "Why is this something remarkable?",
+            "How did BuzzFeed get the officials to talk to them?",
+            "What is the background to this question?",
+            "What did they say, how would they want to murder me?",
+            "Why is Snowden still alive?",
+            "Why would Snowden have to be concerned?",
+            "What\u2019s in this article?",
+            "Who voiced the threats?",
+            "Where did he get the threats?",
+            "How would they want to murder Snowden?",
+            "Was Mr. Snowden really murdered?",
+            "Who said that?",
+            "Why did those officials threaten him publicly?",
+            "How did they interview them?",
+            "From where?",
+            "What about the article?",
+            "Are you still alive?",
+            "What about Snowden and his disclosured about the NSA?",
+            "What did they say?",
+            "How exactly would they like to kill you?",
+            "What did these officials say?",
+            "What else did they do?",
+            "What kind of officials?",
+            "Why is that significant?",
+            "What was the content of the article?",
+            "Where did you hear about these threats?",
+            "So what did they say?",
+            "What did the officials tell them?",
+            "What was in that article?",
+            "What is special about this interview?",
+            "Mr. Snowden, did you sleep well the last couple of nights?",
+            "Who are these individuals?"
+        ]
+    },
+    "because I\u2019ve done what I feel I needed to do.": {
+        "labels": [
+            "Was it the right thing to do?"
+        ],
+        "potential_qs": [
+            "When was this your greatest fear?",
+            "But isn\u2019t there anything you\u2019re afraid of?",
+            "Why don\u2019t you lose sleep?",
+            "But are you afraid?",
+            "Was it the right thing to do?",
+            "Are you still alive?",
+            "Mr. Snowden, did you sleep well the last couple of nights?"
+        ]
+    },
+    "but in the meantime there is a vivid discussion about the situation with the NSA.": {
+        "labels": [
+            "Where is this being discussed?"
+        ],
+        "potential_qs": [
+            "When was this your greatest fear?",
+            "Where else?",
+            "What else happened?",
+            "But isn\u2019t there anything you\u2019re afraid of?",
+            "Where is this being discussed?",
+            "Is this quote still accurate?"
+        ]
+    },
+    "Because, I was reading that you asked for a kind of police protection.": {
+        "labels": [
+            "Why did you ask for police protection?",
+            "What about threats?",
+            "Are there any threats?",
+            "Why do did you ask for police protection?",
+            "Why did he ask for police protection?",
+            "Why did you ask for a police protection?",
+            "Why would Snowden want police protection?",
+            "Why might Mr. Snowden not have been sleeping well?"
+        ],
+        "potential_qs": [
+            "What kind of threat?",
+            "Should Snowden be worried?",
+            "Did Snowden sleep well?",
+            "What's the matter?",
+            "Are there any threats?",
+            "Why do did you ask for police protection?",
+            "Why did he ask for police protection?",
+            "Why did you ask for a police protection?",
+            "Why might you not have slept well?",
+            "Are there threats and do they impact your sleeping?",
+            "How are you? How does that come about?",
+            "Why am I asking this?",
+            "Why should Snowden be worried?",
+            "What kind of threats?",
+            "Why did you ask for police protection?",
+            "What\u2019s the situation?",
+            "What about Snowden and the events of the last couple of days?",
+            "Why would Snowden have to be concerned?",
+            "What\u2019s in this article?",
+            "How is Mr. Snowden doing?",
+            "Who voiced the threats?",
+            "What were you reading it for?",
+            "Why would Snowden want police protection?",
+            "Mr. Snowden, did you sleep well the last couple of nights? (explicit from interviewer)",
+            "How do you sleep?",
+            "Where did he get the threats?",
+            "What about threats?",
+            "Where did the threats come from?",
+            "What is the way things are?",
+            "What did they say?",
+            "How do you live in the current situation?",
+            "Why would you not be sleeping well?",
+            "What about Snowden?",
+            "Why might Mr. Snowden not have been sleeping well?",
+            "And how about the sleep in that circumstances?",
+            "What\u2019s happening with Edward Snowden?",
+            "What was the content of the article?",
+            "What are indications that Mr. Snowden might not have been sleeping well?",
+            "Where did you hear about these threats?",
+            "Why is this to my concern?",
+            "Are there threats?",
+            "Mr. Snowden, did you sleep well the last couple of nights?",
+            "Are there significant threats?"
+        ]
+    },
+    "to poison me as I was returning from the grocery store,": {
+        "labels": [
+            "What would happen afterwards?",
+            "And how else would they want to murder Snowden?",
+            "What would be the result of being poisoned like that?"
+        ],
+        "potential_qs": [
+            "What happend instead?",
+            "What did they tell in anonymity?",
+            "What did they say, how would they want to murder me?",
+            "How would they want to murder Snowden?",
+            "Who said that?",
+            "What would happen afterwards?",
+            "Are you not?",
+            "Why is that significant?",
+            "Why is that?",
+            "What about the sleep?",
+            "What would be the result of being poisoned like that?",
+            "Why don't you lose sleep?",
+            "And how else would they want to murder Snowden?",
+            "Is Snowden worried?",
+            "In what other way would they like to murder me?",
+            "And what else can be said about your wellbeing?",
+            "Were the murder threats acted upon?",
+            "How exactly would they like to kill you?",
+            "Why is this something remarkable?"
+        ]
+    },
+    "and have me die in the shower.": {
+        "labels": [
+            "What happend instead?",
+            "Was Mr. Snowden really murdered?",
+            "Why is Snowden still alive?",
+            "What\u2019s happened as a result of all this?",
+            "Were the murder threats acted upon?",
+            "And that didn\u2019t happen?",
+            "What about Snowden?"
+        ],
+        "potential_qs": [
+            "How would they kill Snowden?",
+            "What did they threaten him with?",
+            "In what ways do the officials want to murder you?",
+            "Why doesn't Snowden lose sleep?",
+            "Was it the right thing to do?",
+            "And how else would they want to murder Snowden?",
+            "Is Snowden worried?",
+            "And that didn\u2019t happen?",
+            "Are you ok in spite of all this?",
+            "Why is this something remarkable?",
+            "How do you feel about the actions that led to this?",
+            "Why is Snowden still alive?",
+            "Will these threats have an effect on you?",
+            "What\u2019s in this article?",
+            "Who voiced the threats?",
+            "Why don't you lose sleep?",
+            "How is Mr. Snowden\u2019s emotional reaction to the threats?",
+            "Don't you lose sleep?",
+            "Were the murder threats acted upon?",
+            "How would they want to murder Snowden?",
+            "Was Mr. Snowden really murdered?",
+            "Why did those officials threaten him publicly?",
+            "What about the sleep?",
+            "Are you still alive?",
+            "What did the officials say?",
+            "What about Snowden and his disclosured about the NSA?",
+            "What did they say?",
+            "How exactly would they like to kill you?",
+            "What did these officials say?",
+            "What kind of thing was that?",
+            "Why is Mr. Snowden not losing sleep?",
+            "What about Snowden?",
+            "What happend instead?",
+            "Why not?",
+            "What would happen afterwards?",
+            "What was the content of the article?",
+            "Why don\u2019t you lose sleep?",
+            "Who are these officials exactly?",
+            "What did the officials say exactly?",
+            "What\u2019s happened as a result of all this?",
+            "What would they love to do?",
+            "Mr. Snowden, did you sleep well the last couple of nights?",
+            "Who are these individuals?"
+        ]
+    },
+    "Not only in America": {
+        "labels": [
+            "Where else?"
+        ],
+        "potential_qs": [
+            "When was this your greatest fear?",
+            "Where else?",
+            "What did President Obama have to do?",
+            "What else happened?",
+            "Where is this being discussed?",
+            "Is this quote still accurate?"
+        ]
+    },
+    "\u201cThe greatest fear I have,\u201d and I quote you, \u201cregarding these disclosures is nothing will change.\u201d": {
+        "labels": [
+            "When was this your greatest fear?"
+        ],
+        "potential_qs": [
+            "When was this your greatest fear?",
+            "Where else?",
+            "But isn\u2019t there anything you\u2019re afraid of?",
+            "Was it the right thing to do?",
+            "But are you afraid?",
+            "Where is this being discussed?",
+            "Is this quote still accurate?"
+        ]
+    },
+    "but I sleep very well.": {
+        "labels": [
+            "What's the matter?",
+            "What is the background to this question?",
+            "Why would Snowden have to be concerned?"
+        ],
+        "potential_qs": [
+            "How do you sleep?",
+            "How would they kill Snowden?",
+            "What is the background to this question?",
+            "And how about the sleep in that circumstances?",
+            "What kind of officials?",
+            "Did Snowden sleep well?",
+            "What's the matter?",
+            "What was the content of the article?",
+            "Why would Snowden have to be concerned?",
+            "Are there any threats?",
+            "From where?",
+            "What about the article?",
+            "Are there threats?",
+            "What was in that article?",
+            "What is special about this interview?",
+            "What did these officials say?",
+            "Why would Snowden want police protection?",
+            "What else did they do?",
+            "Are there significant threats?"
+        ]
+    },
+    "There are significant threats but I sleep very well.": {
+        "labels": [
+            "Where did the threats come from?",
+            "What kind of threat?",
+            "What kind of threats?",
+            "Where did you hear about these threats?",
+            "Where did he get the threats?"
+        ],
+        "potential_qs": [
+            "What kind of threat?",
+            "What did they threaten him with?",
+            "Are there any threats?",
+            "In what ways do the officials want to murder you?",
+            "Why did he ask for police protection?",
+            "Why did you ask for a police protection?",
+            "What was the article about?",
+            "What kind of article?",
+            "Are there threats and do they impact your sleeping?",
+            "What kind of threats?",
+            "How did BuzzFeed get the officials to talk to them?",
+            "Why did you ask for police protection?",
+            "What\u2019s in this article?",
+            "Who voiced the threats?",
+            "Mr. Snowden, did you sleep well the last couple of nights? (explicit from interviewer)",
+            "What was with the officials?",
+            "Where did he get the threats?",
+            "Why did those officials threaten him publicly?",
+            "How did they interview them?",
+            "Where did the threats come from?",
+            "What did the officials say?",
+            "What did they say?",
+            "Why might Mr. Snowden not have been sleeping well?",
+            "Why would you not be sleeping well?",
+            "What kind of officials?",
+            "What are indications that Mr. Snowden might not have been sleeping well?",
+            "Where did you hear about these threats?",
+            "So what did they say?",
+            "What was in the article?"
+        ]
+    }
+}

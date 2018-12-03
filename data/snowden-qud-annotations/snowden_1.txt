@@ -1,0 +1,54 @@
+Interviewer: 
+
+Q0 - What is the way things are?
+> Q1 What about Snowden?
+>> Q1.1 Mr. Snowden, did you sleep well the last couple of nights?
+>> Q1.2 What were you reading it for?
+>>> A1.1.1 Because, I was reading that you asked for a kind of police protection.
+>>> Q1.1.2 What about threats?
+>>>> Q1.1.2.1 Are there any threats?
+
+Snowden: 
+
+> Q2 - Are there significant threats?
+>> A2.1 There are significant threats 
+>> Q2.2 - How do you sleep?
+>>> A2.2.1 but I sleep very well.
+
+> Q3 - What's the matter?
+>> A3.1 There was an article that came out in an online outlet called BuzzFeed
+>> Q3.2 - What about the article? 
+>>> A3.2.1 where they interviewed officials from the Pentagon,
+>>>Q3.2.2 From where?
+>>>> A3.2.2.1 from the National Security Agency
+>>> Q3.2.3 - What else did they do?
+>>>> A3.2.3.1 and they gave them anonymity to be able to say what they wanted,
+>>> Q3.2.3.2 - What did they tell the reporter?
+>>>> A3.2.3.2.1 and what they told the reporter was that they wanted to murder me.
+>> Q3.3 - Who are these individuals?
+>>> A3.3.1 These individuals, and these are acting government officials,
+>>> Q3.3.2 - What did they say?
+>>>> A3.3.2.1 they said they would be happy,
+>>> Q3.3.2.2 - What would they love to do?
+>>>> A3.3.2.2.1 they would love to put a bullet in my head,
+>>>> A3.3.2.2.2 to poison me as I was returning from the grocery store,
+>>>> A3.3.2.2.3 and have me die in the shower.
+
+
+
+Interviewer: 
+> Q4 - What about Snowden?
+>> A.4.1 But, fortunately, you are still alive with us.
+
+Snowden: 
+> Q5 - Are you still alive?
+>> A5.1 Right, but I’m still alive,
+>> Q5.2 - Don't you lose sleep?
+>>> A5.2.1 and I don’t lose sleep
+>>> Q5.2.2 Why don't you lose sleep?
+>>>> A5.2.2.1 because I’ve done what I feel I needed to do.
+>>>> Q5.2.2.2 - What was it?
+>>>>> A5.2.2.2.1 It was the right thing to do.
+>>>> Q5.2.2.3 - What now?
+>>>>> A5.2.2.3.1 And, I’m not going to be afraid.
+

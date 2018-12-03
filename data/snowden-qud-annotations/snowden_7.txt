@@ -1,0 +1,39 @@
+Interviewer: 
+Q0: What’s happening?
+> Q1: What’s happening with Edward Snowden?
+>> Q1.1: Mr. Snowden, did you sleep well the last couple of nights?
+>>> Q1.1.1: What are indications that Mr. Snowden might not have been sleeping well?
+>>>> Because, I was reading that you asked for a kind of police protection.
+>>> Q1.1.2: Why might Mr. Snowden not have been sleeping well?
+>>>> Q1.1.2.1: Are there any threats?
+
+Snowden: 
+>>>>> There are significant threats but I sleep very well.
+>>>>> Q1.1.2.1.1: Where did he get the threats?
+>>>>>> There was an article that came out in an online outlet called BuzzFeed
+>>>>> Q1.1.2.1.2: Who voiced the threats?
+>>>>>> where they interviewed officials from the Pentagon,
+>>>>>> from the National Security Agency
+>>>>> Q1.1.2.1.3: Why did those officials threaten him publicly?
+>>>>>> and they gave them anonymity to be able to say what they wanted,
+>>>>> Q1.1.2.1.4: What did they threaten him with?
+>>>>>> and what they told the reporter was that they wanted to murder me.
+>>>>>> These individuals, and these are acting government officials,
+>>>>>> they said they would be happy, they would love to put a bullet in my head,
+>>>>>> to poison me as I was returning from the grocery store,
+>>>>>> and have me die in the shower.
+
+Interviewer: 
+>>>>>> Q1.1.2.1.4.1: Was Mr. Snowden really murdered?
+>>>>>>> But, fortunately, you are still alive with us.
+
+Snowden: 
+>>>>>>> Right, but I’m still alive,
+>> Q1.1: Mr. Snowden, did you sleep well the last couple of nights?
+>>> and I don’t lose sleep
+>>> Q.1.1.3: Why is Mr. Snowden not losing sleep?
+>>>> because I’ve done what I feel I needed to do.
+>>>> It was the right thing to do.
+>>>>> Q1.1.2.1.5: How is Mr. Snowden’s emotional reaction to the threats?
+>>>>>> And, I’m not going to be afraid.
+

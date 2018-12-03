@@ -1,0 +1,41 @@
+Interviewer: 
+Q0 What’s the situation?
+> Q0.1 How is Mr. Snowden doing?
+>> A0.2 Mr. Snowden, did you sleep well the last couple of nights?
+>> Q0.2 Why might you not have slept well?
+>>> A0.3 Because, I was reading that you asked for a kind of police protection.
+>>>> Q1 Why did you ask for a police protection?
+>>>>> Q2 Are there any threats?
+
+Snowden: 
+>>>>> Q2 Are there threats and do they impact your sleeping?
+>>>>>> A2.1 There are significant threats but I sleep very well.
+>>>>>> Q2.1 Where did the threats come from?
+>>>>>>> A2.2 There was an article that came out in an online outlet called BuzzFeed
+>>>>>>> Q2.2 What was in the article?
+>>>>>>>> A2.3 where they interviewed officials from the Pentagon, from the National Security Agency
+>>>>>>>> Q2.3 What was with the officials?
+>>>>>>>>> A2.4 and they gave them anonymity to be able to say what they wanted,
+>>>>>>>>> Q2.4 What did the officials say? 
+>>>>>>>>>> A2.5 and what they told the reporter was that they wanted to murder me.
+>>>>>>>>>>> Q2.5 Who are these officials exactly?
+>>>>>>>>>>> A2.6 These individuals, and these are acting government officials,
+>>>>>>>>>>>> Q2.6 What did the officials say exactly?
+>>>>>>>>>>>>> A2.7’ they said they would be happy, they would love to put a bullet in my head, 
+>>>>>>>>>>>>> A2.7’’ to poison me as I was returning from the grocery store, 
+>>>>>>>>>>>>> A2.7’’’ and have me die in the shower.
+
+Interviewer: 
+>>>>>>>>>>>>>> Q3 What’s happened as a result of all this?
+>>>>>>>>>>>>>>> A3 But, fortunately, you are still alive with us.
+
+Snowden: 
+>>>>>>>>>>>>>>> Q3.1 Are you ok in spite of all this?
+>>>>>>>>>>>>>>>> A3.2’ Right, but I’m still alive,
+>>>>>>>>>>>>>>>> A3.2’’ and I don’t lose sleep
+>>>>>>>>>>>>>>>>> Q4 How do you feel about the actions that led to this?
+>>>>>>>>>>>>>>>>>> A4.1’ because I’ve done what I feel I needed to do.
+>>>>>>>>>>>>>>>>>> A4.1’’ It was the right thing to do.
+>>>>>>>>>>>>>>>>>> Q4.1 Will these threats have an effect on you?
+>>>>>>>>>>>>>>>>>>> A4.2 And, I’m not going to be afraid.
+

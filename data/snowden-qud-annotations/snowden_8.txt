@@ -1,0 +1,46 @@
+Interviewer:
+Q0: What's the matter?
+> Q1: Should Snowden be worried?
+>> Mr. Snowden, did you sleep well the last couple of nights?
+>> Q1.1: Why should Snowden be worried?
+>>> Because, I was reading that you asked for a kind of police protection.
+>>> Q1.1.1: Why did he ask for police protection?
+>>>> Q.1.1.1: Are there any threats?
+
+Snowden:
+>>>> Q1.1.1.1: Are there any threats?
+>>>>> There are significant threats but I sleep very well.
+>>>>> Q1.1.1.1.1: What kind of threats?
+>>>>>> There was an article that came out in an online outlet called BuzzFeed
+>>>>>>> Q1.1.1.1.1.1: What was the article about?
+>>>>>>> where they interviewed officials from the Pentagon,
+>>>>>>>> Q1.1.1.1.1.1.1: What kind of officials?
+>>>>>>>> from the National Security Agency
+>>>>>>>> Q1.1.1.1.1.1.2: How did BuzzFeed get the officials to talk to them?
+>>>>>>>> and they gave them anonymity to be able to say what they wanted,
+>>>>>>>> Q1.1.1.1.1.1.3: What did the officials tell them?
+>>>>>>>> and what they told the reporter was that they wanted to murder me.
+>>>>>>>>> Q1.1.1.1.1.1.3.1: Why is that significant?
+>>>>>>>>>> These individuals, and these are acting government officials,
+>>>>>>>>> Q1.1.1.1.1.1.3.2: How would they want to murder Snowden?
+>>>>>>>>>> they said they would be happy, they would love to put a bullet in my head,
+>>>>>>>>> Q1.1.1.1.1.1.3.3: And how else would they want to murder Snowden?
+>>>>>>>>>> to poison me as I was returning from the grocery store,
+>>>>>>>>> Q1.1.1.1.1.1.3.4: And how else would they want to murder Snowden?
+>>>>>>>>>> and have me die in the shower.
+
+Interviewer:
+>>>> Q1.1.1.2: Were the murder threats acted upon?
+>>>>> But, fortunately, you are still alive with us.
+
+Snowden:
+>>>> Q1.1.1.3: Were the murder threats acted upon?
+>>>>> Right, but I’m still alive,
+>>>> Q1.1.1.4: Is Snowden worried?
+>>>>> and I don’t lose sleep
+>>>>> Q1.1.1.4.1: Why not?
+>>>>>> because I’ve done what I feel I needed to do.
+>>>>> Q1.1.1.4.2: And why else not?
+>>>>>> It was the right thing to do.
+>>>> Q1.1.1.5: Will Snowden be worried?
+>>>>> And, I’m not going to be afraid.
