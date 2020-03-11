@@ -11,6 +11,18 @@ General notes:
 In order to use the code which is dependent on a word vector model, get a model of word vectors (e.g. at https://code.google.com/archive/p/word2vec/) and place it in the directory ‚word2vec‘. 
 The interview excerpt used in data/snowden_qud_annotations was taken from https://www.ndr.de/nachrichten/netzwelt/Snowden-Interview-Transcript,snowden277.html. 
 
+gensim == 3.1.0
+neuralcoref == 3.0
+nltk == 3.2.5
+numpy == 1.13.3
+scipy == 1.0.0
+spacy == 2.0.12
+sklearn   # == 0.19.1  doesn't work
+
+python -m spacy download en
+
+And also, for some reason: pip install https://github.com/huggingface/neuralcoref-models/releases/download/en_coref_md-3.0.0/en_coref_md-3.0.0.tar.gz
+
 extract_data.py:
 ————————————————————————————
 This file contains methods for extracting the training and development data. Usage examples of the individual methods are indicated at the bottom of the file. 

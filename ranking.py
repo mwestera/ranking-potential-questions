@@ -225,8 +225,8 @@ class QuestionRanker():
 # Execution
 if __name__ == "__main__":
     # Example usage
-    ranker = QuestionRanker(word_vecs="word2vec/GoogleNews-vectors-negative300.bin",
-                            train=True,
+    ranker = QuestionRanker(word_vecs="../../datasets/GoogleNews-vectors-negative300.bin",
+                            train=False,
                             train_path="swda_train.json")
     ranker.evaluate("snowden_qud_dev.json", mode='ml', top=1)
     ranker.evaluate("snowden_qud_dev.json", mode='uniform', top=3)
